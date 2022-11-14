@@ -1,0 +1,67 @@
+.heading{
+    color: rgb(201, 11, 11);
+    text-align: center;
+    text-decoration: underline;
+}
+
+.container{
+    margin-left: 335px;
+}
+
+.Likes{
+    border: 3px solid orangered;
+    width: 300px;
+    font-size: 20px;
+    background-color: orange;
+    position: absolute;
+    padding: 15px;
+}
+
+.Dislikes{
+    border: 3px solid green;
+    width: 300px;
+    font-size: 20px;
+    background-color: greenyellow;
+    margin-left: 350px;
+    position: relative;
+    padding: 15px;
+}
+#sd{
+    color: rgb(55, 0, 255);
+    font-style: italic;
+}
+
+#ho{
+    color: rgb(37, 138, 124);
+    font-style: italic;
+}
+
+#cl{
+    color: rgb(130, 37, 138);
+    font-style: italic;
+}
+
+#tr{
+    color: white;
+    font-style: italic;
+}
+
+#pr{
+    color: rgb(55, 0, 255);
+    font-style: italic;
+}
+
+#di{
+    color: rgb(37, 138, 124);
+    font-style: italic;
+}
+
+#li{
+    color: rgb(130, 37, 138);
+    font-style: italic;
+}
+
+#id{
+    color: orangered;
+    font-style: italic;
+}
